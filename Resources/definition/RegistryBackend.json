@@ -27,7 +27,7 @@
                 "description": "Name of an instance."
             },
             {
-                "name": "$ref",
+                "name": "ref",
                 "type": "varchar",
                 "title": "Backend URL",
                 "description": "URL of backend instance."
