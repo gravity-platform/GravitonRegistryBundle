@@ -7,7 +7,7 @@
         "fixtures": [
             {
                 "name": "graviton-develop",
-                "$ref": "https://graviton-develop.nova.scapp.io"
+                "ref": "https://graviton-develop.nova.scapp.io"
             }
         ]
     },
