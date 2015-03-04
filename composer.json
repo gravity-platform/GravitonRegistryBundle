@@ -1,9 +1,6 @@
 {
-    "name": "graviton/registry-bundle",
-    "description": "Resources for running a graviton registry",
-    "require": {
-        "graviton/graviton": "*@dev"
-    },
+    "name": "graviton-plattform/registry-bundle",
+    "description": "graviton bundle for the graviton plattform registry",
     "license": "GPL",
     "authors": [
         {
