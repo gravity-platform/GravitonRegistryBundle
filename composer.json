@@ -1,6 +1,6 @@
 {
-    "name": "graviton-platform/registry-bundle",
-    "description": "graviton bundle for the graviton-platform registry",
+    "name": "gravity-platform/registry-bundle",
+    "description": "graviton bundle for the gravity-platform registry",
     "license": "GPL",
     "authors": [
         {
