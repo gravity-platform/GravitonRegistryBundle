@@ -1,0 +1,37 @@
+{
+    "id": "RegistryBackend",
+    "description": "Contains a list of all public accessible graviton backend instances.",
+    "service": {
+        "readOnly": false,
+        "routerBase": "/registry/",
+        "fixtures": [
+            {
+                "name": "graviton-develop",
+                "ref": "https://graviton-develop.nova.scapp.io"
+            }
+        ]
+    },
+    "target": {
+        "indexes": [],
+        "relations": [],
+        "fields": [
+            {
+                "name": "id",
+                "type": "varchar",
+                "description": "Unique identifier for each instance."
+            },
+            {
+                "name": "name",
+                "type": "varchar",
+                "title": "Backend Name",
+                "description": "Name of an instance."
+            },
+            {
+                "name": "ref",
+                "type": "varchar",
+                "title": "Backend URL",
+                "description": "URL of backend instance."
+            }
+        ]
+    }
+}

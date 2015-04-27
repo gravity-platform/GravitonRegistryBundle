@@ -1,0 +1,11 @@
+{
+    "name": "gravity-platform/registry-bundle",
+    "description": "graviton bundle for the gravity-platform registry",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Lucas Bickel",
+            "email": "lucas.bickel@swisscom.com"
+        }
+    ]
+}
